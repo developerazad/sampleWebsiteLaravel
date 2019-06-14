@@ -2,14 +2,14 @@
 
 @section('title')
     sample website laravel 5.4
-    @endsection
+@endsection
 
 @section('header')
     <h1>Home</h1>
-    @endsection
+@endsection
 @section('sidebar')
     @parent
     <p>This is from home page</p>
-    @endsection
+@endsection
 
 

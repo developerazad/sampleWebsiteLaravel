@@ -10,12 +10,8 @@
     @yield('header')
 
 
-    @section('sidebar')
+    @include('inc.sidebar')
 
-        <div class="sidebar">
-            <p>This is a sidebar</p>
-        </div>
-    @show
 
 
 </body>
