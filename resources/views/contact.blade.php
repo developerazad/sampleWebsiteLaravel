@@ -4,7 +4,7 @@
     sample website | contact
     @endsection
 
-@section('header')
+@section('content')
     <h1>Contact</h1>
     @endsection
 @section('sidebar')
