@@ -33,11 +33,10 @@
             </div>
         </div>
 
-
-        <footer id="footer" class="text-center">
-            <p>Copyright&copy;2019 Acme, All Rights Reserved.</p>
-        </footer>
     </div>
+    <footer id="footer" class="text-center">
+        <p>Copyright&copy;2019 Acme, All Rights Reserved.</p>
+    </footer>
 
 
 </body>
