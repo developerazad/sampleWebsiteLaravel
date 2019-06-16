@@ -28,7 +28,7 @@
     @endsection
 @section('sidebar')
     @parent
-    <p>This is from contact page</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab facilis ratione tempora. Aut blanditiis consequatur eius expedita magnam neque officiis quaerat. Ex, mollitia, vel. Ab praesentium provident sequi sunt voluptates!</p>
     @endsection
 
 

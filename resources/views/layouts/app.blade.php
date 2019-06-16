@@ -37,7 +37,7 @@
 
     </div>
     <footer id="footer" class="text-center">
-        <p>Copyright&copy;2019 Acme, All Rights Reserved.</p>
+        <p>Copyright&copy;2019, All Rights Reserved.</p>
     </footer>
 
 

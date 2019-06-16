@@ -10,7 +10,7 @@
 @endsection
 @section('sidebar')
     @parent
-    <p>This is from home page</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci amet assumenda aut nisi officiis quisquam saepe similique tempora temporibus. Accusamus accusantium corporis enim laborum quis, ut. Accusamus explicabo neque placeat.</p>
 @endsection
 
 
